@@ -8,7 +8,7 @@ A full-stack blog application built using **Spring Boot**, **Java**, **MySQL**, 
 - 🧵 Users can comment on posts  
 - 🔍 Search posts by title  
 - 🛠️ Modular structure using controller-service-repository layers  
-- 🛡️ CORS configured and global exception handling
+- 🛡️ CORS protection and global exception handling
 
 ## 🛠️ Tech Stack
 

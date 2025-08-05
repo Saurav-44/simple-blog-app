@@ -1,4 +1,4 @@
-# Simple Blog App
+# Blog App
 
 A full-stack blog application built using **Spring Boot**, **Java**, **MySQL**, and **RESTful APIs**. This project allows users to create, read, update, and delete blog posts with ease.
 
